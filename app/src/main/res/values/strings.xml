@@ -1,0 +1,13 @@
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">Clean Architecture Example</string>
+    <!-- Text-->
+    <string name="no_internet_connection">No Internet Connection</string>
+    <!-- Image descriptions-->
+    <string name="image_item">Image Description</string>
+    <!-- Card text-->
+    <string name="tools_item_description">In this zany sequel, time-traveling duo Marty McFly (Michael J. Fox) and Dr. Emmett Brown (Christopher Lloyd) return from saving Martys future son from disaster, only to discover their own time transformed. In this nightmarish version of Hill Valley, Martys father has been murdered and Biff Tannen, Martys nemesis, has profited. After uncovering the secret to Biffs success — a sports almanac from the future — Marty and the Doc embark on a quest to repair the space-time continuum</string>
+    <string name="tools_item_short_description">Marty McFly, a 17 year old high school student gets lost in 1955 by an accident, 30 years back in time. With the help of his friend Dr. Emmet Brown, he is desperately trying to find his way back to the future in the year 1985. It becomes a battle against the clock</string>
+    <string name="tools_item_title">Back to the future II</string>
+    <string name="tools_item_button">See details</string>
+</resources>
