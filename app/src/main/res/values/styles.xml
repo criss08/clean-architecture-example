@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text Styles -->
+    <style name="Default_Text">
+        <item name="android:textColor">@color/default_text_color</item>
+        <item name="android:textSize">@dimen/sp16</item>
+    </style>
+    <style name="Headline01">
+        <item name="android:textColor">@color/default_text_color</item>
+        <item name="android:textSize">@dimen/sp18</item>
+    </style>
+    <style name="Headline01_Alternative_Color" parent="Headline01">
+        <item name="android:textColor">@color/alternative_text_color</item>
+    </style>
+    <style name="Headline02" parent="Headline01">
+        <item name="android:textSize">@dimen/sp16</item>
+    </style>
+    <!--  Toolbar Styles-->
+    <style name="ToolBarStyle" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/default_toolbar_color</item>
+        <item name="android:textColorPrimary">@color/default_text_color</item>
+    </style>
+</resources>

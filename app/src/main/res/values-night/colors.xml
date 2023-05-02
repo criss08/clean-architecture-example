@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Background Colors-->
+    <color name="default_background_color">@color/black</color>
+    <color name="cardview_background_color">@color/black_russian</color>
+
+    <!--    Text Colors-->
+    <color name="default_text_color">@color/ghost_white</color>
+    <color name="alternative_text_color">@color/teal_200</color>
+
+    <!--    Button Colors-->
+
+    <!--    ProgressBar Colors-->
+    <color name="default_progressbar_color">@color/teal_200</color>
+
+    <!--    Toolbar Colors-->
+    <color name="default_toolbar_color">@color/black_russian</color>
+</resources>
