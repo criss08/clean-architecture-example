@@ -10,10 +10,7 @@ For API consumption, The Movie DataBase is used (TMDB)
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Screenshots:
-<p align="center">
-  <img width="100%" height="100%" src="https://i.postimg.cc/YCh0QJDJ/Clean-arquitecture.png">
-</p>
-
-<p align="center">
-  <img width="100%" height="100%" src="https://i.postimg.cc/wjfJpXnd/clean-arquitecture-detail.png">
-</p>
+  <body>
+    <img src="https://i.ibb.co/DpWHmHj/Clean-arquitecture.png" style="width:50%;height:50%;" alt="" />
+    <img src="https://i.ibb.co/ydK9XJV/clean-arquitecture-detail.png" style="width:50%;height:50%;" alt="" />
+  </body>
