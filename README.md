@@ -11,9 +11,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Screenshots:
 <p align="center">
-  <img width="460" height="300" src="https://i.postimg.cc/YCh0QJDJ/Clean-arquitecture.png">
+  <img width="300" height="500" src="https://i.postimg.cc/YCh0QJDJ/Clean-arquitecture.png">
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://i.postimg.cc/9D9zP7Wx/clean-arquitecture-detail.png">
+  <img width="3000" height="500" src="https://i.postimg.cc/9D9zP7Wx/clean-arquitecture-detail.png">
 </p>
